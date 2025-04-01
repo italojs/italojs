@@ -22,4 +22,4 @@ I'm passionate about building scalable and maintainable software while traveling
 
 🚐 **Living the nomad life, coding from anywhere!** 
 
-<img src="https://github.com/italojs/italojs/blob/main/me.jpeg" alt="Motorhome" width="300" height="200" style="border-radius: 10px;"/>
+<img src="https://github.com/italojs/italojs/blob/main/me.jpeg" alt="Motorhome" height="200" style="border-radius: 20px;"/>
