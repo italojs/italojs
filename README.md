@@ -15,11 +15,11 @@ I'm passionate about building scalable and maintainable software while traveling
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ### 📈 My GitHub Stats  
-![Ítalo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=italojose&show_icons=true&theme=dark)  
+![ItaloJS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=italojs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)  
 
 ### 🌍 Connect With Me  
 [LinkedIn](https://linkedin.com/in/italojs) | [Twitter](https://twitter.com/italojs_)  
 
 🚐 **Living the nomad life, coding from anywhere!** 
 
-<img src="https://raw.githubusercontent.com/italojose/italojose/main/assets/motorhome.png" alt="Motorhome" width="300" height="200" style="border-radius: 10px;"/>
+<img src="https://github.com/italojs/italojs/blob/main/me.jpeg" alt="Motorhome" width="300" height="200" style="border-radius: 10px;"/>
