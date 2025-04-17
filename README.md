@@ -6,7 +6,7 @@ I'm passionate about building scalable and maintainable software while traveling
 
 ### 💡 What I Do  
 - **Core Committer** of [HerbsJS](https://herbsjs.org/) 🌿  
-- Contributor to the **[Meteor.js](https://www.meteor.com/) Framework** ☄️  
+- Core team member of **[Meteor.js](https://www.meteor.com/) Framework** ☄️  
 - Speaker in **Brazil, Greece, and London** 🎙️  
 
 ### 🚀 My Tech Stack  
